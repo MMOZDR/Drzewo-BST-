@@ -1,0 +1,19 @@
+﻿Build started 2015-03-09 19:24:41.
+     1>Project "C:\Users\Michał\Documents\GitHub\Drzewo-BST-\Drzewo BST\Drzewo BST\Drzewo BST.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Drzewo BST.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michał\Documents\GitHub\Drzewo-BST-\Drzewo BST\Debug\Drzewo BST.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Drzewo BST.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Michał\Documents\GitHub\Drzewo-BST-\Drzewo BST\Debug\Drzewo BST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michał\Documents\GitHub\Drzewo-BST-\Drzewo BST\Debug\Drzewo BST.lib" /MACHINE:X86 "Debug\Drzewo BST.exe.embed.manifest.res"
+         "Debug\Drzewo BST.obj"
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\Michał\Documents\GitHub\Drzewo-BST-\Drzewo BST\Drzewo BST\Drzewo BST.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.95
